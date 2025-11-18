@@ -7,7 +7,7 @@ The pipeline is fully modular, scalable, and optimized for deployment or Kaggle-
 
 ---
 
-🚀 Key Features
+# 🚀 Key Features
 
 ✅ 1. Complete Preprocessing Pipeline
 
@@ -48,7 +48,7 @@ Tracks training time
 
 ---
 
-📂 Project Structure
+# 📂 Project Structure
 
 ├── train.csv
 ├── notebook.py / model.py
@@ -58,7 +58,7 @@ Tracks training time
 
 ---
 
-🧠 Technologies Used
+# 🧠 Technologies Used
 
 Python
 
@@ -76,7 +76,7 @@ GC (Garbage Collection) for memory optimization
 
 ---
 
-⚙️ How the Pipeline Works
+# ⚙️ How the Pipeline Works
 
 1. Import Libraries
 
@@ -147,7 +147,7 @@ Training Time
 
 ---
 
-📈 Sample Output
+# 📈 Sample Output
 
 ✓ Data split into training and validation sets.
 ✓ Data processed and converted.
@@ -162,7 +162,7 @@ Training Time
 
 ---
 
-🗂️ Future Improvements
+# 🗂️ Future Improvements
 
 Add feature importance plotting
 
@@ -173,15 +173,3 @@ Add a prediction API using FastAPI
 Train on full dataset and export model
 
 
-
----
-
-🙌 Author
-
-Vansh Panwar (MNNIT Allahabad)
-
-ML Enthusiast
-
-Footballer | Guitarist | Modelling Committee | Media Team
-
-Case Study Finalist (Rank 1, 3, 4)
