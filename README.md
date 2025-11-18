@@ -1,4 +1,4 @@
-🎪 Carnival Risk Analytics – Optimized LightGBM Pipeline
+# 🎪 Carnival Risk Analytics – Optimized LightGBM Pipeline
 
 This project builds a high-performance Machine Learning pipeline to predict Insurance Premium Amounts for 1.2M+ customers using demographic, lifestyle, and financial attributes.
 
